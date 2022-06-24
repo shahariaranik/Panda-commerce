@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.bgcaro{
+    border-radius: 10px;
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.byenow{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
