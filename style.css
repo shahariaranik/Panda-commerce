@@ -20,3 +20,40 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: #FF136F;
+
+
+}
+.cat2{
+    background-color: blue;
+
+}
+.cat3{
+    background-color: yellowgreen;
+
+}
+.ccss{
+    border-radius: 10px;
+    padding: 20px 40px;
+    color: whitesmoke;
+}
+.ccss img{
+    width: 100px;
+}
+.lbnow{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.card
+{
+    border: none !important;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 15px !important;
+}
+.shocetitel{
+    color: gray;
+}
+.card-footer{
+    background-color: white !important;
+}
